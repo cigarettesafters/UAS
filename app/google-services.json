@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834033478970",
+    "project_id": "galuhdc-134a6",
+    "storage_bucket": "galuhdc-134a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834033478970:android:19c99d9cdc71743c813403",
+        "android_client_info": {
+          "package_name": "com.example.contoh3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2L2wohIuvG0fgQJrP5uzpPsUjDLTfyTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
